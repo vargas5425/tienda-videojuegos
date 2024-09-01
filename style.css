@@ -1,0 +1,12 @@
+.productos {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.producto {
+    background-color: #282828;
+    padding: 10px;
+    border-radius: 5px;
+    width: 200px;
+    text-align: center;
+}
